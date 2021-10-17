@@ -52,3 +52,4 @@ To use the below 6 machine learning models to evaluate credit risks for our cust
 - The low risk precision is at 100% and recall(sensitivity) score is 94% with a F-score of 97%.
 
 ## Summary
+If we must pick one of the available models we used, the EasyEnsembleClassifer algorithms provides the highest sensitivity at 92% and highest precision at 9% along with the highest F-score of 16% for high risk predictions among all the other models. The calculated precision is really low to help LendingClub determine the credit risk decision. There will be many false positives for high risk customers even with our highest 9% precision. That is quite a lot of potential clients lost even if we use our best model. However, in conclusion, credit risks predictions are really difficult and I would not recommend any of the models we used to predict credit risks. 
