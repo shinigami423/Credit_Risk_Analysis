@@ -4,7 +4,7 @@
 To use the below 6 machine learning models to evaluate credit risks for our customers with credit card credit dataset from LendingClub:
 1. oversampling with **RandomOverSampler** and **SMOTE** algorithms
 2. undersampliong with **ClusterCentroids** algorithm
-3. over- and undersampling with SMOTEENN algorithm
+3. over- and undersampling with **SMOTEENN** algorithm
 4. compare two models to reduce bias with **BalancedRandomForestClassifier** and **EasyEnsembleClassifier**
 
 
