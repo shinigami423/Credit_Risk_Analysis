@@ -12,23 +12,43 @@ To use the below 6 machine learning models to evaluate credit risks for our cust
 ### RandomOverSampler Model balanced accuracy score and imbalanced classification report
 ![](images/random1.PNG)
 ![](images/random2.PNG)
+- Balance accuracy score rounded to the nearest percent is 66%.
+- 
+- 
 
-### ClusterCentroids Model balanced accuracy score and imbalanced classification report
+
+### SMOTE Model balanced accuracy score and imbalanced classification report
 ![](images/smote1.PNG)
 ![](images/smote2.PNG)
+- Balance accuracy score rounded to the nearest percent is 66%.
+- 
+- 
 
-### SMOTE Model balanced accuracy score and imbalanced classification report
+### ClusterCentroids Model balanced accuracy score and imbalanced classification report
 ![](images/cluster1.PNG)
 ![](images/cluster2.PNG)
+- Balance accuracy score rounded to the nearest percent is 54%.
+- 
+- 
 
-### SMOTE Model balanced accuracy score and imbalanced classification report
-![](images/smoteen1.PNG)
-![](images/smoteen2.PNG)
+### SMOTEEN Model balanced accuracy score and imbalanced classification report
+![](images/smoteenn1.PNG)
+![](images/smoteenn2.PNG)
+- Balance accuracy score rounded to the nearest percent  is 68%.
+- 
+- 
 
-### SMOTE Model balanced accuracy score and imbalanced classification report
+### BalancedRandomForestClassifierModel balanced accuracy score and imbalanced classification report
 ![](images/balancedrandom1.PNG)
 ![](images/balancedrandom2.PNG)
+- Balance accuracy score rounded to the nearest percent  is 77%.
+- 
+- 
 
-### SMOTE Model balanced accuracy score and imbalanced classification report
+### EasyEnsembleClassifier Model balanced accuracy score and imbalanced classification report
 ![](images/easyclassifier1.PNG)
 ![](images/easyclassifier2.PNG)
+- Balance accuracy score rounded to the nearest percent is 93%.
+- 
+- 
+## Summary
